@@ -1,0 +1,26 @@
+
+    Basic Syntax: Structure of C programs.
+    Data Types: Types of data variables can hold.
+    Variables: Store data that can be modified.
+    Constants: Fixed values that do not change.
+    Storage Classes: Define the scope and lifetime of variables.
+    Operators: Symbols for performing operations.
+    Decision Making: Statements to execute code based on conditions.
+    Loops: Execute code repeatedly based on conditions.
+    Functions: Blocks of code that perform specific tasks.
+    Scope Rules: Visibility of variables in different parts of a program.
+    Arrays: Collections of variables of the same type.
+    Pointers: Variables that store memory addresses.
+    Strings: Arrays of characters.
+    Structures: User-defined data types for grouping variables.
+    Unions: Store different data types in the same memory location.
+    Bit Fields: Pack data in structures efficiently.
+    Typedef: Create aliases for data types.
+    Input/Output: Functions for handling input and output.
+    Preprocessors: Commands for the compiler before compilation.
+    Header Files: Contain declarations and macros.
+    Type Casting: Convert variables from one type to another.
+    Error Handling: Manage errors in programs.
+    File I/O: Read from and write to files.
+    Recursion: Function calls itself to solve problems.
+    Variable Arguments: Functions that accept a variable number of arguments.
